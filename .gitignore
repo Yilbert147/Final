@@ -1,0 +1,18 @@
+# Ignorar dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de compilación y producción
+dist/
+.angular/
+
+# Ignorar archivos de configuración de IDEs y sistemas operativos
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignorar dependencias específicas del backend y frontend
+Backend/node_modules/
+Backend/dist/
+FrontendRestaurante2/node_modules/
+FrontendRestaurante2/dist/
