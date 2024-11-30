@@ -4,6 +4,10 @@ Un proyecto completo que permite a los usuarios registrarse, iniciar sesión y g
 
 ---
 
+CREDITOS:
+
+Yilber Velasquez/Samuel Giraldo
+
 Descripción:
 
 Este proyecto permite:
@@ -152,6 +156,3 @@ Visualizar: Todas las reseñas de los usuarios son visibles, pero solo puedes ed
 Licencia
 Este proyecto está distribuido bajo la licencia MIT
 
-CREDITOS:
-
-Yilber Velasquez/Samuel Giraldo
